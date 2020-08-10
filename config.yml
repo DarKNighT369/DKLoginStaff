@@ -1,0 +1,23 @@
+Jogadores:
+  - 'zDarK_NighT_:386134642257952770' # nick no game:id do dc
+
+Delay: 30 #Quantos segundos o jogador tera para confirmar a entrada dele
+
+Mensagens:
+  Prefix: 'DKLoginStaff'
+  ConfirmarEntrada: 'Alguém esta tentando entrar na conta de {player}, deseja confirmar a entrada deste jogador?'
+  Negou: 'Jogador recusado com sucesso!'
+  NegouKick: '&cA sua entrada no servidor foi recusada!'
+  Autorizado: 'Jogador autorizado com sucesso!'
+  AutorizadoChat: '&aA sua entrada no servidor foi autorizada com sucesso!'
+  Demorou: 'O jogador {player} demorou muito para confirmar a entrada dele no servidor!'
+  DemorouKick: '&cVocê demorou muito para confirmar a sua entrada no servidor!'
+  Actionbar: '&cVocê tem {tempo} segundos para confirmar a sua entrada no servidor!'
+  Deslogou: 'O jogador {player} deslogou enquanto estava na confirmação!'
+  ChatBlock: '&cVocê não pode interagir no chat enquanto não se confirmar!'
+  CmdBlock: '&cVocê não pode usar comandos enquanto não se confirmar!'
+  OpenMenuBlock: '§cVocê não pode abrir menus enquanto não se confirmar!'
+
+Discord:
+  BotToken: ''
+  ChatID: ''

@@ -1,0 +1,6 @@
+name: DKLoginStaff
+version: 1.0
+author: DarK NighT
+main: me.dark.night.dkloginstaff.Main
+commands:
+  loginstaff:
